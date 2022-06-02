@@ -1,4 +1,4 @@
-# daggerhiltdemo
+# Dagger-hilt Demo
 
 #### Currency convertor with - DaggerHilt - Kotlin - MVVM - Material design - Coroutine - Flows - Retrofit(APIs) - JSON
 
